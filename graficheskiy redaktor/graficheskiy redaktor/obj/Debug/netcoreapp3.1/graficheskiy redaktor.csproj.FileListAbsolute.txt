@@ -1,0 +1,15 @@
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.exe
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.deps.json
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.runtimeconfig.json
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.runtimeconfig.dev.json
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.dll
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\bin\Debug\netcoreapp3.1\graficheskiy redaktor.pdb
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy_redaktor.Form1.resources
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.csproj.GenerateResource.cache
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.AssemblyInfoInputs.cache
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.AssemblyInfo.cs
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.dll
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.pdb
+C:\Users\админ\source\repos\graficheskiy redaktor\graficheskiy redaktor\obj\Debug\netcoreapp3.1\graficheskiy redaktor.genruntimeconfig.cache
